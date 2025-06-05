@@ -11,7 +11,7 @@
 ## Think Solution
 
 ## 👨‍🎓 Integrantes: 
-- <a href="https://www.linkedin.com/company/inova-fusca">Vinícius Pereira Santana 1</a>
+- <a href="https://www.linkedin.com/in/vinicius-santana-97a9b54a/">Vinícius Pereira Santana 1</a>
 - <a href="https://www.linkedin.com/company/inova-fusca">Vitor Augusto Prado Guisso 2</a>
 - <a href="https://www.linkedin.com/company/inova-fusca">Ryan Carlos Sousa Alves da Cunha 3</a> 
 
